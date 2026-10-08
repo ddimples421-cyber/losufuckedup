@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Magic AI Writing Partner",
+  "description": "A distraction-free writing studio with proactive AI co-authorship, inline iteration, and document-wide contextual weaving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
